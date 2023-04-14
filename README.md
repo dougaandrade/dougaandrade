@@ -7,11 +7,7 @@
 
 <br>
 
-<br>
-
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/733451929023414353?&borderRadius=px&idleMessage=doug&bg=a&hideTimestamp=true&animated=true)](https://discord.com/users/733451929023414353)
-
+[![Discord Presence](https://lanyard.cnrad.dev/api/733451929023414353?&borderRadius=px1&idleMessage=doug&bg=a&hideTimestamp=true&animated=true)](https://discord.com/users/733451929023414353)
 
 </div>
 
@@ -29,3 +25,7 @@
 [![REPLIT](	https://img.shields.io/badge/REPLIT-252525?style=for-the-badge&logo=replit&logoColor=8A2BE2)](https://replit.com/@raredoug)
 [![SPOTFY](	https://img.shields.io/badge/SPOTIFY-252525?style=for-the-badge&logo=spotify&logoColor=8A2BE2)](https://open.spotify.com/user/sgbz4vi3bkipf6x3v0letyhu4)
 <div>
+<br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=DGK)](https://git.io/typing-svg)
+
