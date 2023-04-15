@@ -7,7 +7,7 @@
 
 <br>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/733451929023414353?&borderRadius=px1&idleMessage=doug&bg=a&hideTimestamp=true&animated=true)](https://discord.com/users/733451929023414353)
+[![Discord Presence](https://lanyard.cnrad.dev/api/733451929023414353?&borderRadius=px1&idleMessage=doug&bg=a&hideTimestamp=false&animated=true)](https://discord.com/users/733451929023414353)
 
 </div>
 
