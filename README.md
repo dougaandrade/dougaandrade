@@ -6,14 +6,16 @@
 ### Student of Information Systems focused on the Front End
 
 <br>
-[![Discord Presence](https://lanyard.cnrad.dev/api/733451929023414353)](https://discord.com/users/733451929023414353)
-<!-- [![Discord Presence](https://lanyard.cnrad.dev/api/733451929023414353?&borderRadius=px1&idleMessage=doug&bg=a&hideTimestamp=false&animated=true)](https://discord.com/users/733451929023414353) -->
+
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/733451929023414353?theme=dark&bg=151515&idleMessage=doug&hideTimestamp=true&animated=true)](https://discord.com/users/733451929023414353)
+
 
 </div>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=dougaandrade&show_icons=true&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=c9d1d9&theme=dark" alt="doug github stats" /> 
-  <img width="44%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dougaandrade&layout=compact&hide_border=true&title_color=8A2BE2&text_color=ffff&theme=dark" />
+  <img width="50%" height="199px" src="https://github-readme-stats.vercel.app/api?username=dougaandrade&layout=compact&show_icons=true&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=c9d1d9&theme=dark" alt="doug github stats" /> 
+  <img width="50%" height="223px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dougaandrade&layout=compact&hide_border=true&title_color=8A2BE2&text_color=ffff&theme=dark" alt="doug github stats"/>
 </div>
 
 <div align="center">
