@@ -14,8 +14,7 @@
 </div>
 
 <div align="center">  
-  <img width="50%" height="199px" src="https://github-readme-stats.vercel.app/api?username=dougaandrade&layout=compact&show_icons=true&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=c9d1d9&theme=dark" alt="doug github stats" /> 
-  <img width="50%" height="223px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dougaandrade&layout=compact&hide_border=true&title_color=8A2BE2&text_color=ffff&theme=dark" alt="doug github stats"/>
+  <img width="50%" height="193px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dougaandrade&layout=compact&hide_border=true&title_color=8A2BE2&text_color=ffff&theme=dark" alt="doug github stats"/>
 </div>
 
 <div align="center">
