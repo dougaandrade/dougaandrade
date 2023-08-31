@@ -1,11 +1,6 @@
 
 <div align="center">
 
-<br>
-
-### Student of Information Systems focused on the Front End
-
-<br>
 
 
 ![image](https://github.com/dougaandrade/dougaandrade/assets/116695856/a6667418-7977-4555-b585-e14cdb72433a)
