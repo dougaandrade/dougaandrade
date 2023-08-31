@@ -8,14 +8,16 @@
 <br>
 
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/733451929023414353?theme=dark&bg=151515&idleMessage=doug&hideTimestamp=true&animated=true)](https://discord.com/users/733451929023414353)
+![image](https://github.com/dougaandrade/dougaandrade/assets/116695856/a6667418-7977-4555-b585-e14cdb72433a)
+---
 
+```yaml
+const life = "per_aspera_ad_astra💫";
+```
 
 </div>
 
-<div align="center">  
-  <img width="50%" height="193px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dougaandrade&layout=compact&hide_border=true&title_color=8A2BE2&text_color=ffff&theme=dark" alt="doug github stats"/>
-</div>
+
 
 <div align="center">
 
@@ -27,6 +29,6 @@
 [![SPOTFY](	https://img.shields.io/badge/SPOTIFY-252525?style=for-the-badge&logo=spotify&logoColor=8A2BE2)](https://open.spotify.com/user/sgbz4vi3bkipf6x3v0letyhu4)
 <div>
 <br>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=DGK)](https://git.io/typing-svg)
-
+<!-- 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=per_aspera_ad_astra💫)](https://git.io/typing-svg)
+ -->
