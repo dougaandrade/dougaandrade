@@ -24,5 +24,5 @@ const life = "per_aspera_ad_astra💫";
 <div>
 <br>
 <!-- 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=per_aspera_ad_astra💫)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&width=435&lines=per_aspera_ad_astra💫)](https://git.io/typing-svg)
  -->
