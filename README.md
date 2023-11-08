@@ -3,7 +3,7 @@
 
 
 
-![image](https://github.com/dougaandrade/dougaandrade/assets/116695856/a6667418-7977-4555-b585-e14cdb72433a)
+![image](https://github.com/dougaandrade/dougaandrade/blob/main/profile.png?raw=true)
 ---
 
 ```yaml
