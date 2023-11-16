@@ -18,9 +18,9 @@ const life = "per_aspera_ad_astra💫";
 
 <br>
 
-[![STEAM](	https://img.shields.io/badge/Steam-252525?style=for-the-badge&logo=steam&logoColor=FFFF)](https://steamcommunity.com/id/dougaandrade/)
-[![SPOTFY](	https://img.shields.io/badge/SPOTIFY-252525?style=for-the-badge&logo=spotify&logoColor=FFFFF)](https://open.spotify.com/user/sgbz4vi3bkipf6x3v0letyhu4)
-[![LINKEDIN]( 	https://img.shields.io/badge/LinkedIn-252525?style=for-the-badge&logo=linkedin&logoColor=FFFF)](https://www.linkedin.com/in/douglas-andrade-036a36287)
+[![STEAM](	https://img.shields.io/badge/Steam-252525?style=for-the-badge&logo=steam&logoColor=c7c7c8)](https://steamcommunity.com/id/dougaandrade/)
+[![SPOTFY](	https://img.shields.io/badge/SPOTIFY-252525?style=for-the-badge&logo=spotify&logoColor=c7c7c8)](https://open.spotify.com/user/sgbz4vi3bkipf6x3v0letyhu4)
+[![LINKEDIN]( 	https://img.shields.io/badge/LinkedIn-252525?style=for-the-badge&logo=linkedin&logoColor=c7c7c8)](https://www.linkedin.com/in/douglas-andrade-036a36287)
 <div>
 <br>
 <!-- 
