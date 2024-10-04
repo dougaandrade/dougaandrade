@@ -7,7 +7,7 @@
 ---
 
 ```yaml
-TRE/SE developer focusing on Front-end;
+TRE/SE developer focusing on Front-end
 ```
 
 </div>
