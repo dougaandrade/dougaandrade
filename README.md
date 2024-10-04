@@ -7,7 +7,7 @@
 ---
 
 ```yaml
-const life = "per_aspera_ad_astra💫";
+Developer in TRE/SE focus Front-End;
 ```
 
 </div>
