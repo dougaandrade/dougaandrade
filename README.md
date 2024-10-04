@@ -7,7 +7,7 @@
 ---
 
 ```yaml
-Developer in TRE/SE focus Front-End;
+Developer in TRE/SE focus Front-End
 ```
 
 </div>
