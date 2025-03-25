@@ -7,7 +7,7 @@
 <div align="center" style="text-align: center;">
 
   ```yaml
-TRE/SE developer focusing on Front-end
+TRE/SE developer focusing on Web Developement
 ```
 </div>
 <div style="text-align: center;">
