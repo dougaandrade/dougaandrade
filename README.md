@@ -2,7 +2,7 @@
 <div align="center" style="text-align: center;">
 
 
-![profile](https://github.com/dougaandrade/dougaandrade/assets/116695856/0f75bcd1-ed3f-4b47-bb37-ebd71cbcb452)
+![profile](https://github.com/dougaandrade/dougaandrade/blob/main/profile%20no%20capslock.png)
 ---
 <div align="center" style="text-align: center;">
 
