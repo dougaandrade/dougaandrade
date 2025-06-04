@@ -1,8 +1,8 @@
 
 <div align="center" style="text-align: center;">
 
-
 ![profile](https://github.com/dougaandrade/dougaandrade/blob/main/profile%20no%20capslock.png)
+
 ---
 <div align="center" style="text-align: center;">
 
