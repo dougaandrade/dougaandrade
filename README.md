@@ -8,15 +8,15 @@
 <div align="center" style="text-align: center;">
 
   ```yaml
-TRE/SE developer focusing on Web Developement
+SES developer focusing on Web Developement
 ```
-</div>
+<!-- </div>
 <div style="text-align: center;">
   <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dougaandrade&show_icons=true&count_private=true&hide_border=true&title_color=ecf2f8&icon_color=FFFFFF&text_color=FFFFFF&bg_color=252525" alt="DouG github stats" /> 
   <img width="40%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dougaandrade&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=252525" />
 </div>
 
-</div>
+</div> -->
 
 <div align="center">
 
